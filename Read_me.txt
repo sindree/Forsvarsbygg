@@ -10,3 +10,5 @@ Legger til tekst lokalt
 Legger til enda mer teskt i nettleseren
 
 Legger til noe som vi pusher til en branch
+
+Pushe etter å ha logget på SSH
